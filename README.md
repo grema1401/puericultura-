@@ -538,7 +538,7 @@
           <li>Material de apoio em PDF</li>
           <li>Certificado de participação</li>
         </ul>
-        <a href="https://go.hotmart.com/N104914613T" class="btn-price">Garantir vaga no lote 1</a>
+        <a href="https://go.hotmart.com/N104914613T" target="_blank" rel="noopener noreferrer" class="btn-price">Garantir vaga no lote 1</a>
       </div>
       <div class="price-card featured">
         <span class="price-tag">✦ Lote 2 — Recomendado</span>
@@ -552,7 +552,7 @@
           <li>Certificado de participação</li>
           <li>Checklist clínico exclusivo</li>
         </ul>
-        <a href="https://go.hotmart.com/N104914613T" class="btn-price">Garantir vaga no lote 2</a>
+        <a href="https://go.hotmart.com/N104914613T" target="_blank" rel="noopener noreferrer" class="btn-price">Garantir vaga no lote 2</a>
       </div>
       <div class="price-card">
         <span class="price-tag">Lote 3 — Final</span>
@@ -566,7 +566,7 @@
           <li>Certificado de participação</li>
           <li>Checklist clínico exclusivo</li>
         </ul>
-        <a href="https://go.hotmart.com/N104914613T" class="btn-price">Garantir vaga no lote 3</a>
+        <a href="https://go.hotmart.com/N104914613T" target="_blank" rel="noopener noreferrer" class="btn-price">Garantir vaga no lote 3</a>
       </div>
     </div>
   </div>
